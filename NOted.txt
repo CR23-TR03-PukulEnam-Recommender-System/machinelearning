@@ -1,2 +1,1 @@
-Masalah ku adalah
-Gimana caranya model itu bisa di load dan dipake di local
+
