@@ -1,7 +1,34 @@
 ## Installation
 
-Follow These Steps to Install and Set up The Training
+Follow These Steps to Install and Set up The Model:
+1. Clone the github repository
+```bash 
+git clone https://github.com/CR23-TR03-PukulEnam-Recommender-System
+```
 
+2. Change Directory to Model Folder
+```bash
+cd model
+```
+
+3. Create Python Environment
+```bash
+python -m venv venv
+```
+
+4. Install the requirements
+```bash
+pip install requirements.txt
+```
+
+5. You can try train the data yourself first here
+```bash
+python Main.py
+```
+then try the prediction here
+```bash
+python Predict.py
+```
 
 ## Data Collecting and Preprocessing
 PukulEnam provides real past projects data, however after consideration our team decided to make a dummy data consist of 50.000 rows of past project data to train the model. The dataset comprises four columns of features: Topics, Subtopics, Difficulty, and Project Type. Additionally, there is a label column called Workers. But in the future development project manager can do transfer learning to fit real-life data for more accurate prediction.
