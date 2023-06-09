@@ -165,7 +165,7 @@ We Measure other Metrics such as F1 Score and Recall
 
 ## Using The Predict.py
 
-After you run it we provide of list Type, Topics and Sub Topics. You can try it and the model will produce the team!
+After you run it we provide of list Type, Topics and Sub Topics. You can try it and the model will produce the team! Type your desire team. Note: If you enter the wrong input the program will raise error
 
 ![image](https://github.com/CR23-TR03-PukulEnam-Recommender-System/model/assets/72967822/343f4a39-edce-4262-b8b4-2eebc61dc6fc)
 
