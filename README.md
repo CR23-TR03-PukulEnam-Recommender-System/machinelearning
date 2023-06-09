@@ -1,5 +1,7 @@
 ## Installation
 
+Follow These Steps to Install and Set up The Training
+
 
 ## Data Collecting and Preprocessing
 PukulEnam provides real past projects data, however after consideration our team decided to make a dummy data consist of 50.000 rows of past project data to train the model. The dataset comprises four columns of features: Topics, Subtopics, Difficulty, and Project Type. Additionally, there is a label column called Workers. But in the future development project manager can do transfer learning to fit real-life data for more accurate prediction.
