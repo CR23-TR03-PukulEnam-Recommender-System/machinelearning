@@ -162,3 +162,10 @@ We Measure other Metrics such as F1 Score and Recall
 ![F1 Score Metrics](https://github.com/DaffaKhalishHP/RecommenderSystemPukulEnam/assets/72967822/01a84710-ed6e-4ead-8ea4-279a9faada46)
 
 ![Recall Metrics](https://github.com/DaffaKhalishHP/RecommenderSystemPukulEnam/assets/72967822/e8ba22a8-01b5-42ce-9f63-619a2b4a2db4)
+
+## Using The Predict.py
+
+After you run it we provide of list Type, Topics and Sub Topics. You can try it and the model will produce the team!
+
+![image](https://github.com/CR23-TR03-PukulEnam-Recommender-System/model/assets/72967822/343f4a39-edce-4262-b8b4-2eebc61dc6fc)
+
