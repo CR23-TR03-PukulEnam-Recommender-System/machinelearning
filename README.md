@@ -35,6 +35,9 @@ python Predict.py
 ## Data Collecting and Preprocessing
 PukulEnam provides real past projects data, however after consideration our team decided to make a dummy data consist of 50.000 rows of past project data to train the model. The dataset comprises four columns of features: Topics, Subtopics, Difficulty, and Project Type. Additionally, there is a label column called Workers. But in the future development project manager can do transfer learning to fit real-life data for more accurate prediction.
 
+![C23-TR03_ Presentation Slides](https://github.com/CR23-TR03-PukulEnam-Recommender-System/model/assets/72967822/a8ed8c08-b704-4131-9508-8312bd9968ee)
+
+
 Data Preprocessing can be achieve using some Python Library such as:
 - Pandas (For pre-processing data from imported CSV)
 - SKLearn Model_Selection (For splitting train,validation and test data)
